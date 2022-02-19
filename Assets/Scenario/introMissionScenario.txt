@@ -1,0 +1,33 @@
+/*
+dialogue
+Hello Codeslinger, connection established..
+/*
+dialogue
+We don't have much time. We have to be in and out fast.
+/*
+action
+First, let's find a backdoor and elude the firewall..
+***
+backdoor
+firewall
+/*
+action
+If we're lucky we might be able to exploit a routine 
+***
+routine
+/*
+action
+Good, now try to sniff the traffic to the ports
+***
+sniff
+ports
+/*
+action
+Prepare to breach and steal the data cache
+***
+breach
+cache
+/*
+dialogue
+We've got what we need, now let's get out of here before we are discovered
+/*

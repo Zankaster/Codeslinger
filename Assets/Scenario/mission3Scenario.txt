@@ -1,0 +1,65 @@
+/*
+action
+This is the day we prepared for, tomorrow a new dawn will shine on the world
+***
+new
+world
+/*
+action
+The ones who scheme war, who influence opinions, who profit from death.. The invisible hand that shatters independent thought.. That's the target 
+***
+invisible
+target
+/*
+action
+All their names revealed, every evil deed unmasked 
+***
+revealed
+unmasked
+/*
+action
+The evidence shall be so overwhelming that no one will be able to turn the other side
+***
+evidence
+/*
+action
+I don't know if there's anything beyond this earthly life, hell or heaven, but we'll make sure at least here, these monsters receive the deserved punishment
+***
+hell
+heaven
+/*
+action
+A renewed era of discovery is about to start for civilization
+***
+discovery
+/*
+dialogue
+#nameless#: Impressive, yet futile..
+/*
+dialogue
+#handler#: What? How is this possibile? Who is this?
+/*
+dialogue
+#nameless#: We have been keeping an eye on you for a while, "Codeslinger".. We didn't imagine you could actually get this far, we wouldn't have allowed it
+/*
+dialogue
+#nameless#: We are ready to make you an offer, work for us
+/*
+dialogue
+#nameless#: A person of your talent would be useful to manipulate information as we see fit, and every possible resource would be at your disposal
+/*
+dialogue
+#handler#: Don't listen to them Codeslinger, everything you worked for is at your fingertips, you might never get this oppurtunity aga#####DISCONNECT#####
+/*
+dialogue
+#nameless#: Enough, make your choice, but make it wisely, should you decide to expose us, we will hunt you down until exhale your last breath. On the other side of the coin, you can live a long and rich life doing what we tell you to, it's as simple as that
+/*
+choice
+#nameless#: Choose, freedom or corruption
+***
+freedom
+corruption
+/*
+dialogue
+#Codeslinger#: I made my choice
+/*

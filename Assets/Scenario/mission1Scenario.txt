@@ -1,0 +1,46 @@
+/*
+action
+Today we're going to rob a bank
+***
+bank
+/*
+action
+Retribution is coming for those who live off honest people's backs
+***
+retribution
+/*
+action
+No family is going to lose their home again, no more
+***
+family
+home
+/*
+action
+As the poor and indebted artisan, they will close store
+***
+store
+/*
+action
+Let's start by breaking their defense
+***
+defense
+/*
+action
+Now! It's the perfect timing for offense
+***
+offense
+/*
+action
+Share this bounty with our brothers and sisters 
+***
+bounty
+/*
+action
+Today they're the kings, farmers and builders
+***
+farmers
+builders
+/*
+dialogue
+Excellent, we caused some serious damage and stole despicable secrets, erase your footprints and disconnect
+/*

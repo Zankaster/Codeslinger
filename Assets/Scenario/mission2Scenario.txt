@@ -1,0 +1,50 @@
+/*
+action
+Codeslinger, what we're about to face is pure evil, a corporation who preferred to let thousands of people die rather than retire their product from the market..
+***
+pure
+people
+/*
+action
+They knew it was faulty, but their legals figured it was cheaper to settle with the victims familiars rather than recall all the shipped units
+***
+familiars
+/*
+action
+Even tough it will not provide relief, the responsibles will be exposed and brought to justice
+***
+exposed
+justice
+/*
+action
+Retrieve the emails where the board of directors found out about the defects but decided to do nothing anyway
+***
+directors
+defects
+/*
+action
+Such information should be enough to make the corp stock price fall to zero
+***
+fall
+zero
+/*
+action
+And most important, all those white collar scumbags will spend the rest of their lives behind bars
+***
+life
+important
+/*
+action
+They're no different from regular criminals you know, only they have a suitcase instead of a gun
+***
+suitcase
+gun
+/*
+action
+Lucky for us we have the perfect tool to fight this kind of criminals: information
+***
+information
+/*
+dialogue
+You did enough, take a rest now, we'll see the results on tomorrow newspaper
+/*
